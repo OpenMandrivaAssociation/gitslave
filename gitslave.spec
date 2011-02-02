@@ -9,7 +9,7 @@ License:	LGPL 2.1
 URL:		http://gitslave.sourceforge.net
 Source0:	http://downloads.sourceforge.net/project/gitslave/%{name}-%{version}.tar.gz
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
-BuildRequires:	perl
+Requires:	perl
 
 %description
 gitslave creates a group of related repositories—a superproject repository and
