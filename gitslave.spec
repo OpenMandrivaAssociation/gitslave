@@ -2,7 +2,7 @@
 Name:		gitslave
 Summary:	gitslave creates a group of related repositories
 Group:		Development/Other
-Version:	2.0
+Version:	2.0.1
 Release:	%mkrel 1
 BuildArch:	noarch
 License:	LGPL 2.1
