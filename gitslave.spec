@@ -1,6 +1,6 @@
 
 Name:		gitslave
-Summary:		gitslave creates a group of related repositories
+Summary:		Creates a group of related repositories
 Group:		Development/Other
 Version:		2.0.1
 Release:		3
