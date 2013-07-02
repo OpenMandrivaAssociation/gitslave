@@ -3,7 +3,7 @@ Name:		gitslave
 Summary:		Creates a group of related repositories
 Group:		Development/Other
 Version:		2.0.1
-Release:		3
+Release:		4
 BuildArch:	noarch
 License:		LGPL 2.1
 URL:		http://gitslave.sourceforge.net
@@ -30,5 +30,4 @@ sed -i 's#/usr/local#/usr#g' Makefile
 %make
 
 %install
-rm -rf %{buildroot}
 %makeinstall_std
