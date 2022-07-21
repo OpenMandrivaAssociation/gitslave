@@ -2,8 +2,8 @@
 Name:		gitslave
 Summary:		Creates a group of related repositories
 Group:		Development/Other
-Version:		2.0.1
-Release:		5
+Version:		2.0.2
+Release:		1
 BuildArch:	noarch
 License:		LGPL 2.1
 URL:		http://gitslave.sourceforge.net
