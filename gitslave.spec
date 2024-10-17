@@ -6,7 +6,7 @@ Version:		2.0.2
 Release:		1
 BuildArch:	noarch
 License:		LGPL 2.1
-URL:		http://gitslave.sourceforge.net
+URL:		https://gitslave.sourceforge.net
 Source0:		http://downloads.sourceforge.net/project/gitslave/%{name}-%{version}.tar.gz
 BuildRequires:	perl
 Requires:	git
