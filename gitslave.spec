@@ -8,6 +8,7 @@ BuildArch:	noarch
 License:		LGPL 2.1
 URL:		https://gitslave.sourceforge.net
 Source0:		http://downloads.sourceforge.net/project/gitslave/%{name}-%{version}.tar.gz
+BuildRequires:	make
 BuildRequires:	perl
 Requires:	git
 
